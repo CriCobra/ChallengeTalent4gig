@@ -8,3 +8,4 @@ Ho creato una semplice webapp che, dopo la creazione del database con il file db
 - Iniziato alle ore xxx
 Ho voluto inserire l'inizio del processo e visualizzare anche la periodicità così da poter vedere eventuali ritardi. 
 La pagina si aggiorna automaticamente ogni 10 secondi. 
+Ho collegato le due tabelle con la chiave esterna ID la quale è autoincrement. 
